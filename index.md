@@ -21,7 +21,7 @@ layout: homepage
 <div class="content-column">
 <section id="about">
   <h2>About Me</h2>
-  <p>Hi, I'm Yuxuan Gao, a third-year undergraduate student in <a href="https://cs.whu.edu.cn/" rel="noopener noreferrer">the School of Computer Science</a>,<a href="https://www.whu.edu.cn/" rel="noopener noreferrer">Wuhan University</a>. </p>
+  <p>Hi, I'm Yuxuan Gao, a third-year undergraduate student in Computer Science at <a href="https://www.whu.edu.cn/" rel="noopener noreferrer">Wuhan University</a>. </p>
   
   <p>My research interests center on trustworthy and interpretable AI for medicine. I am particularly interested in connecting clinical concepts, multimodal evidence, and reliable reasoning in medical language and multimodal models, with a focus on hallucination and grounding under distribution shift, reliability-oriented adaptation and post-training, and verifiable clinical agents. I have been advised by <a href="https://jszy.whu.edu.cn/yemang/en/index.htm" rel="noopener noreferrer">Prof. Mang Ye</a> and <a href="https://jszy.whu.edu.cn/tanqingxiong/zh_CN/index/1639463/list/index.htm" rel="noopener noreferrer">Prof. Qingxiong Tan</a> at Wuhan University on interpretable medical imaging, which provides a natural foundation for these interests. </p>
   
