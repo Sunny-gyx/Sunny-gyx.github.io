@@ -7,7 +7,7 @@ layout: homepage
   <div class="profile-details">
     <p class="eyebrow">ACADEMIC HOMEPAGE</p>
     <h1>高宇轩</h1>
-    <p class="identity">Undergraduate student<br><a href="https://www.whu.edu.cn/" rel="noopener noreferrer">Wuhan University</a></p>
+    <p class="identity">Undergraduate student<br>Wuhan University</p>
     <nav class="links" aria-label="Profile links">
       <a href="mailto:gaoyuxuan@whu.edu.cn">Email</a>
       <a href="{{ '/assets/files/Yuxuan_Gao_CV.pdf' | relative_url }}">CV</a>
@@ -21,11 +21,11 @@ layout: homepage
 <div class="content-column">
 <section id="about">
   <h2>About Me</h2>
-  <p>Hi, I'm Yuxuan Gao, a third-year undergraduate student in the School of Computer Science<a href="https://cs.whu.edu.cn/" rel="noopener noreferrer">,<a href="https://www.whu.edu.cn/" rel="noopener noreferrer">Wuhan University</a>. 
+  <p>Hi, I'm Yuxuan Gao, a third-year undergraduate student in <a href="https://cs.whu.edu.cn/" rel="noopener noreferrer">the School of Computer Science</a>,<a href="https://www.whu.edu.cn/" rel="noopener noreferrer">Wuhan University</a>. </p>
   
-  My research interests center on trustworthy and interpretable AI for medicine. I am particularly interested in connecting clinical concepts, multimodal evidence, and reliable reasoning in medical language and multimodal models, with a focus on hallucination and grounding under distribution shift, reliability-oriented adaptation and post-training, and verifiable clinical agents. I have been advised by <a href="https://jszy.whu.edu.cn/yemang/en/index.htm" rel="noopener noreferrer">Prof. Mang Ye</a> and <a href="https://jszy.whu.edu.cn/tanqingxiong/zh_CN/index/1639463/list/index.htm" rel="noopener noreferrer">Prof. Qingxiong Tan</a> at Wuhan University on interpretable medical imaging, which provides a natural foundation for these interests. 
+  <p>My research interests center on trustworthy and interpretable AI for medicine. I am particularly interested in connecting clinical concepts, multimodal evidence, and reliable reasoning in medical language and multimodal models, with a focus on hallucination and grounding under distribution shift, reliability-oriented adaptation and post-training, and verifiable clinical agents. I have been advised by <a href="https://jszy.whu.edu.cn/yemang/en/index.htm" rel="noopener noreferrer">Prof. Mang Ye</a> and <a href="https://jszy.whu.edu.cn/tanqingxiong/zh_CN/index/1639463/list/index.htm" rel="noopener noreferrer">Prof. Qingxiong Tan</a> at Wuhan University on interpretable medical imaging, which provides a natural foundation for these interests. </p>
   
-  I am currently looking for research internship opportunities and am also interested in future PhD opportunities in trustworthy medical AI, medical LLMs/MLLMs, and clinical agents.</p>
+  <p>I am currently looking for research internship opportunities and am also interested in future PhD opportunities in trustworthy medical AI, medical LLMs/MLLMs, and clinical agents.</p>
 </section>
 
 <section id="interests">
