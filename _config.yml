@@ -1,0 +1,9 @@
+title: Yuxuan Gao
+description: Academic homepage of Yuxuan Gao, a Software Engineering student at Wuhan University.
+url: ""
+baseurl: ""
+markdown: kramdown
+permalink: pretty
+exclude:
+  - Gemfile.lock
+  - scripts
