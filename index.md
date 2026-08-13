@@ -15,6 +15,7 @@ layout: homepage
       <a href="https://www.linkedin.com/in/yuxuan-gao-39661a404/" rel="noopener noreferrer">LinkedIn</a>
     </nav>
   </div>
+  <img class="profile-photo" src="{{ '/assets/img/profile.png' | relative_url }}" alt="Yuxuan Gao giving a presentation">
   <nav class="section-nav" aria-label="Page sections">
     <a href="#about">About</a>
     <a href="#news">News</a>
