@@ -2,8 +2,9 @@
 layout: homepage
 ---
 
-<header class="hero" id="top">
-  <div>
+<header class="profile-sidebar" id="top">
+  <img class="profile-photo" src="{{ '/assets/img/profile.png' | relative_url }}" alt="Yuxuan Gao giving a presentation">
+  <div class="profile-details">
     <p class="eyebrow">ACADEMIC HOMEPAGE</p>
     <h1>Yuxuan Gao</h1>
     <p class="identity">Third-year B.Eng. student in Software Engineering<br><a href="https://www.whu.edu.cn/" rel="noopener noreferrer">Wuhan University</a></p>
@@ -15,16 +16,9 @@ layout: homepage
       <a href="https://www.linkedin.com/in/yuxuan-gao-39661a404/" rel="noopener noreferrer">LinkedIn</a>
     </nav>
   </div>
-  <img class="profile-photo" src="{{ '/assets/img/profile.png' | relative_url }}" alt="Yuxuan Gao giving a presentation">
-  <nav class="section-nav" aria-label="Page sections">
-    <a href="#about">About</a>
-    <a href="#news">News</a>
-    <a href="#experience">Experience</a>
-    <a href="#publications">Publications</a>
-    <a href="#honors">Honors</a>
-  </nav>
 </header>
 
+<div class="content-column">
 <section id="about">
   <h2>About Me</h2>
   <p>Hi, I'm Yuxuan Gao, a third-year undergraduate pursuing a B.Eng. in Software Engineering at <a href="https://www.whu.edu.cn/" rel="noopener noreferrer">Wuhan University</a>. My research interests center on trustworthy and interpretable AI for medicine. I am particularly interested in connecting clinical concepts, multimodal evidence, and reliable reasoning in medical language and multimodal models, with a focus on hallucination and grounding under distribution shift, reliability-oriented adaptation and post-training, and verifiable clinical agents. I have been advised by <a href="https://jszy.whu.edu.cn/yemang/en/index.htm" rel="noopener noreferrer">Prof. Mang Ye</a> and <a href="https://jszy.whu.edu.cn/tanqingxiong/zh_CN/index/1639463/list/index.htm" rel="noopener noreferrer">Prof. Qingxiong Tan</a> at Wuhan University on interpretable medical imaging, which provides a natural foundation for these interests. I am currently looking for research internship opportunities and am also interested in future PhD opportunities in trustworthy medical AI, medical LLMs/MLLMs, and clinical agents.</p>
@@ -33,10 +27,11 @@ layout: homepage
 <section id="interests">
   <h2>Research Interests</h2>
   <ul class="interest-list">
-    <li>Medical LLMs, MLLMs, and Clinical Vision-Language Systems</li>
-    <li>Trustworthy Multimodal AI: Hallucination, Grounding, Uncertainty, and OOD Robustness</li>
-    <li>Faithful and Verifiable Clinical Reasoning and Agents</li>
-    <li>Concept-Based and Interpretable Medical AI under Limited Supervision</li>
+    <li><strong>Verifiable Clinical Reasoning and Agents.</strong> Clinical reasoning systems whose intermediate decisions and supporting evidence can be checked.</li>
+    <li><strong>Interpretable and Faithful Reasoning in Medical LLMs/MLLMs.</strong> Reasoning evaluation beyond answer accuracy, with attention to clinically relevant decision factors and faithfulness.</li>
+    <li><strong>Trustworthy Medical MLLMs.</strong> Hallucination, grounding, uncertainty, calibration, and OOD robustness in medical multimodal and vision-language systems.</li>
+    <li><strong>Reliability-Oriented Tuning, Adaptation, and Post-Training.</strong> Adaptation and post-training methods that improve reliable medical reasoning.</li>
+    <li><strong>Concept-Grounded and Interpretable Medical AI.</strong> Concept-based learning, interpretable medical vision, and structured clinical priors under limited supervision.</li>
   </ul>
 </section>
 
@@ -92,3 +87,4 @@ layout: homepage
   <p>© 2026 Yuxuan Gao · <a href="mailto:gaoyuxuan@whu.edu.cn">gaoyuxuan@whu.edu.cn</a></p>
   <p class="credit">Adapted from <a href="https://github.com/yaoyao-liu/minimal-light" rel="noopener noreferrer">Minimal Light</a> (CC0-1.0).</p>
 </footer>
+</div>
