@@ -6,7 +6,7 @@ layout: homepage
   <div>
     <p class="eyebrow">ACADEMIC HOMEPAGE</p>
     <h1>Yuxuan Gao</h1>
-    <p class="identity">Third-year B.Eng. student in Software Engineering<br>Wuhan University</p>
+    <p class="identity">Third-year B.Eng. student in Software Engineering<br><a href="https://www.whu.edu.cn/" rel="noopener noreferrer">Wuhan University</a></p>
     <nav class="links" aria-label="Profile links">
       <a href="mailto:gaoyuxuan@whu.edu.cn">Email</a>
       <a href="{{ '/assets/files/Yuxuan_Gao_CV.pdf' | relative_url }}">CV</a>
@@ -17,6 +17,7 @@ layout: homepage
   </div>
   <nav class="section-nav" aria-label="Page sections">
     <a href="#about">About</a>
+    <a href="#news">News</a>
     <a href="#experience">Experience</a>
     <a href="#publications">Publications</a>
     <a href="#honors">Honors</a>
@@ -25,7 +26,7 @@ layout: homepage
 
 <section id="about">
   <h2>About Me</h2>
-  <p>I am a third-year B.Eng. student in Software Engineering at Wuhan University and a Research Intern with the MARS Group, Wuhan University, since Oct. 2024. I am advised by Prof. Mang Ye and Prof. Qingxiong Tan. My current research foundation is in interpretable medical imaging, particularly diabetic retinopathy grading under limited lesion annotations. I am interested in trustworthy and interpretable AI for medicine: how clinical concepts, multimodal evidence, and model reasoning can remain reliable under limited supervision and distribution shift. Looking ahead, I hope to study medical LLMs and MLLMs, grounding and hallucination, uncertainty and OOD robustness, faithful reasoning, reliability-oriented adaptation and post-training, and verifiable clinical reasoning and agents.</p>
+  <p>Hi, I'm Yuxuan Gao, a third-year undergraduate pursuing a B.Eng. in Software Engineering at <a href="https://www.whu.edu.cn/" rel="noopener noreferrer">Wuhan University</a>. My research interests center on trustworthy and interpretable AI for medicine. I am particularly interested in connecting clinical concepts, multimodal evidence, and reliable reasoning in medical language and multimodal models, with a focus on hallucination and grounding under distribution shift, reliability-oriented adaptation and post-training, and verifiable clinical agents. I have been advised by <a href="https://jszy.whu.edu.cn/yemang/en/index.htm" rel="noopener noreferrer">Prof. Mang Ye</a> and <a href="https://jszy.whu.edu.cn/tanqingxiong/zh_CN/index/1639463/list/index.htm" rel="noopener noreferrer">Prof. Qingxiong Tan</a> at Wuhan University on interpretable medical imaging, which provides a natural foundation for these interests. I am currently looking for research internship opportunities and am also interested in future PhD opportunities in trustworthy medical AI, medical LLMs/MLLMs, and clinical agents.</p>
 </section>
 
 <section id="interests">
@@ -44,17 +45,25 @@ layout: homepage
     <div class="entry-heading">
       <div>
         <h3>Interpretable Semi-Supervised Diabetic Retinopathy Grading</h3>
-        <p class="meta">Research Intern · MARS Group, Wuhan University</p>
+        <p class="meta">Research Intern · <a href="https://marswhu.github.io/index.html" rel="noopener noreferrer">MARS Group</a>, <a href="https://www.cs.whu.edu.cn/" rel="noopener noreferrer">School of Computer Science</a>, <a href="https://www.whu.edu.cn/" rel="noopener noreferrer">Wuhan University</a></p>
       </div>
       <p class="date">Oct. 2024 – Present</p>
     </div>
-    <p class="advisor">Advised by Prof. Mang Ye and Prof. Qingxiong Tan</p>
+    <p class="advisor">Advised by <a href="https://jszy.whu.edu.cn/yemang/en/index.htm" rel="noopener noreferrer">Prof. Mang Ye</a> and <a href="https://jszy.whu.edu.cn/tanqingxiong/zh_CN/index/1639463/list/index.htm" rel="noopener noreferrer">Prof. Qingxiong Tan</a></p>
     <ul>
       <li>Studied interpretable semi-supervised diabetic-retinopathy grading under limited lesion annotations.</li>
       <li>Used distribution-aware unlabeled-sample selection and concept-infused pseudo-label refinement informed by clinical grade–lesion relationships.</li>
       <li>Evaluated diagnostic and lesion-concept prediction with component-level analysis.</li>
     </ul>
   </article>
+</section>
+
+<section id="news">
+  <h2>News</h2>
+  <ul class="news-list">
+    <li><span class="news-date">Jan. 2026</span> Our paper was accepted by ICASSP 2026.</li>
+    <li><span class="news-date">May 2026</span> Received the Research Practice Grant from the Lei Jun Fund for Innovation and Development in Computer Science.</li>
+  </ul>
 </section>
 
 <section id="publications">
@@ -70,9 +79,9 @@ layout: homepage
 <section id="honors">
   <h2>Honors &amp; Awards</h2>
   <ul class="honors-list">
-    <li>Lei Jun Computer Science Scholarship — 20 students department-wide</li>
+    <li>Lei Jun Computer Science Scholarship <em class="award-note">— 20 students department-wide</em></li>
     <li>Research Practice Grant Recipient, Lei Jun Fund for Innovation and Development in Computer Science</li>
-    <li>Merit Student — Top 10% university-wide</li>
+    <li>Merit Student <em class="award-note">— Top 10% university-wide</em></li>
     <li>Second Prize, National English Competition for College Students (Grand Final)</li>
     <li>Second Place Prize, Forum of Sciences &amp; Arts of Nanjing University</li>
   </ul>
