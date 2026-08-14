@@ -73,8 +73,7 @@ layout: homepage
     <p class="pub-title">Semi-Supervised Concept Infused Pseudo-Label Refining for Interpretable Diabetic Retinopathy Grading</p>
     <p><strong>Yuxuan Gao</strong>, Chi Wen, He Li, Qingxiong Tan, Mang Ye</p>
     <p class="venue">ICASSP 2026</p>
-    <p><a class="paper-link" href="https://ieeexplore.ieee.org/abstract/document/11462792" rel="noopener noreferrer">Paper</a></p>
-    <p><a class="code-link" href="https://github.com/Sunny-gyx/IDR-SSCL.git" rel="noopener noreferrer">Code</a></p>
+    <p class="pub-links"><a class="paper-link" href="https://ieeexplore.ieee.org/abstract/document/11462792" rel="noopener noreferrer">Paper</a><a class="paper-link code-link" href="https://github.com/Sunny-gyx/IDR-SSCL.git" rel="noopener noreferrer">Code</a></p>
   </article>
 </section>
 
