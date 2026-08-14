@@ -24,19 +24,16 @@ layout: homepage
   <h2>About Me</h2>
   <p>Hi, I'm Yuxuan Gao, a third-year undergraduate student in Computer Science at <a href="https://www.whu.edu.cn/" rel="noopener noreferrer">Wuhan University</a>. </p>
   
-  <p>My research interests center on trustworthy and interpretable AI for medicine. I am particularly interested in connecting clinical concepts, multimodal evidence, and reliable reasoning in medical language and multimodal models, with a focus on hallucination and grounding under distribution shift, reliability-oriented adaptation and post-training, and verifiable clinical agents. I have been advised by <a href="https://jszy.whu.edu.cn/yemang/en/index.htm" rel="noopener noreferrer">Prof. Mang Ye</a> and <a href="https://jszy.whu.edu.cn/tanqingxiong/zh_CN/index/1639463/list/index.htm" rel="noopener noreferrer">Prof. Qingxiong Tan</a> at Wuhan University on interpretable medical imaging, which provides a natural foundation for these interests. </p>
+  <p>My primary research interest is AI for medicine and healthcare, with trustworthy multimodal large language models as a second research direction. I am interested in connecting clinical concepts, multimodal evidence, and reliable reasoning in healthcare, with a foundation in interpretable medical imaging advised by <a href="https://jszy.whu.edu.cn/yemang/en/index.htm" rel="noopener noreferrer">Prof. Mang Ye</a> and <a href="https://jszy.whu.edu.cn/tanqingxiong/zh_CN/index/1639463/list/index.htm" rel="noopener noreferrer">Prof. Qingxiong Tan</a> at Wuhan University.</p>
   
-  <p>I am currently looking for research internship opportunities and am also interested in future PhD opportunities in trustworthy medical AI, medical LLMs/MLLMs, and clinical agents.</p>
+  <p>I am currently looking for research internship opportunities and am also interested in future PhD opportunities in AI for medicine and healthcare and trustworthy multimodal language models.</p>
 </section>
 
 <section id="interests">
   <h2>Research Interests</h2>
   <ul class="interest-list">
-    <li><strong>Verifiable Clinical Reasoning and Agents.</strong> Clinical reasoning systems whose intermediate decisions and supporting evidence can be checked.</li>
-    <li><strong>Interpretable and Faithful Reasoning in Medical LLMs/MLLMs.</strong> Reasoning evaluation beyond answer accuracy, with attention to clinically relevant decision factors and faithfulness.</li>
-    <li><strong>Trustworthy Medical MLLMs.</strong> Hallucination, grounding, uncertainty, calibration, and OOD robustness in medical multimodal and vision-language systems.</li>
-    <li><strong>Reliability-Oriented Tuning, Adaptation, and Post-Training.</strong> Adaptation and post-training methods that improve reliable medical reasoning.</li>
-    <li><strong>Concept-Grounded and Interpretable Medical AI.</strong> Concept-based learning, interpretable medical vision, and structured clinical priors under limited supervision.</li>
+    <li><strong>AI for Medicine / AI for Healthcare.</strong> My primary theme: reliable and interpretable healthcare AI grounded in clinical concepts and multimodal evidence, including medical reasoning and auditable clinical systems.</li>
+    <li><strong>Trustworthy Multimodal Large Language Models.</strong> I am interested in hallucination and grounding, OOD generalization and reliability, multimodal reasoning, and tuning, adaptation, and post-training for more trustworthy models.</li>
   </ul>
 </section>
 
