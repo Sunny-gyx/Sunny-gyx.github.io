@@ -14,6 +14,7 @@ layout: homepage
       <a href="https://scholar.google.com/citations?user=7py3wZgAAAAJ&hl=en" rel="noopener noreferrer">Google Scholar</a>
       <a href="https://github.com/Sunny-gyx" rel="noopener noreferrer">GitHub</a>
       <a href="https://www.linkedin.com/in/yuxuan-gao-39661a404/" rel="noopener noreferrer">LinkedIn</a>
+      <a href="https://x.com/sunnygao44" rel="noopener noreferrer">X</a>
     </nav>
   </div>
 </header>
@@ -61,7 +62,7 @@ layout: homepage
 <section id="news">
   <h2>News</h2>
   <ul class="news-list">
-    <li><span class="news-date">Jan. 2026</span> Our paper was accepted by ICASSP 2026.</li>
+    <li><span class="news-date">Jan. 2026</span> One paper was accepted by ICASSP 2026.</li>
     <li><span class="news-date">May 2026</span> Received the Research Practice Grant from the Lei Jun Fund for Innovation and Development in Computer Science.</li>
   </ul>
 </section>
@@ -72,7 +73,8 @@ layout: homepage
     <p class="pub-title">Semi-Supervised Concept Infused Pseudo-Label Refining for Interpretable Diabetic Retinopathy Grading</p>
     <p><strong>Yuxuan Gao</strong>, Chi Wen, He Li, Qingxiong Tan, Mang Ye</p>
     <p class="venue">ICASSP 2026</p>
-    <p><a class="paper-link" href="https://ieeexplore-custom.ieee.org/document/11462792" rel="noopener noreferrer">Paper</a></p>
+    <p><a class="paper-link" href="https://ieeexplore.ieee.org/abstract/document/11462792" rel="noopener noreferrer">Paper</a></p>
+    <p><a class="code-link" href="https://github.com/Sunny-gyx/IDR-SSCL.git" rel="noopener noreferrer">Code</a></p>
   </article>
 </section>
 
